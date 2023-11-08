@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h2>Pooja Vishwakarma</h2>
+        <fieldset>
+            <div>
+                <label for="contact">Contact:</label>
+                <a href="vishwakarmapooja1826@gmail">vishwakarmapooja1826@gmail</a>
+                <br>
+                <br>
+
+                <label for="linkedin">LinkedIn:</label>
+                <a href="https://www.linkedin.com/in/pooja-vishwakarma-091079250">linkedin.com/in/pooja-vishwakarma</a>
+                <br>
+                <br>
+
+                <label for="github">Github:</label>
+                <a href="https://github.com/PoojaVishwakarma0402">github.com/PoojaVishwakarma0402</a>
+                <br>
+                <br>
+            </div>
+
+            <table>
+                <tr>
+                    <td>
+                        <a href="https://imgbox.com/SMnoP7bN" target="_blank"><img src="https://thumbs2.imgbox.com/1c/a8/SMnoP7bN_t.jpg" alt="image host"/></a>
+                    </td>
+                    <td>
+                        <p>I am a passionate computer engineering student, highly driven to acquire knowledge in computer systems and software. My unwavering dedication to self-improvement and my enthusiasm for technology position me as a promising future professional in the field.</p>
+                    </td>
+                </tr>
+            </table>
+
+            <section>
+                <h3>Education</h3>
+                <ul>
+                    <li>Bachelor Of Technology in Computer Engineering, Vishwakarma Institute of Information Technology, Pune</li>
+                    <li>Secondary School, Shri Hanumantrao Chate School & Jr Science College</li>
+                    <li>Primary School, Shri Hanumantrao Chate School & Jr Science College</li>
+                </ul>
+            </section>
+            <section>
+                <h3>Experience</h3>
+                <div>
+                    <h5>Internship at Codsoft</h5>
+                    <p>25/07/23 - 25/08/23</p>
+                    <ul>
+                        <li>
+                            <h6>Number Guessing Game:</h6>A classic number guessing game where the computer selects a random number and the player has to guess it within a certain range.
+                        </li>
+                        <li>
+                            <h6>Simple Calculator:</h6>An implementation of a basic calculator that can perform addition, subtraction, multiplication, and division operations.
+                        </li>
+                        <li>
+                            <h6>Student Grading System:</h6>This project simulates a student grading system. It allows users to input student information and their respective grades.
+                        </li>
+                        <li>
+                            <h6>Word Count Game:</h6>This program reads a text file and calculates the total number of words in the text. While it counts the total word occurrences, it doesn't calculate the frequency of each unique word.
+                        </li>
+                        <li>
+                            <h6>Movie Ticket Booking System:</h6>This project models a simple movie ticket booking system. It allows users to browse available movies, select showtimes, and book tickets.
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section>
+                <h3>Skills</h3>
+                <ul>
+                    <li>C</li>
+                    <li>C++</li>
+                    <li>Python</li>
+                    <li>Java</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>SQL</li>
+                </ul>
+            </section>
+        </fieldset>
+        <section>
+            <p>Frequently Asked Question</p>
+            <details>
+                <summary>What is the purpose of this HTML code?</summary>
+                <p>This HTML code is designed to create a personal webpage or portfolio for Pooja Vishwakarma, a computer engineering student, to showcase her information, education, skills, and experience.</p>
+            </details>
+            <details>
+                <summary>How can I contact Pooja Vishwakarma?</summary>
+                <p>You can contact me via email at <a href="vishwakarmapooja1826@gmail.">vishwakarmapooja1826@gmail.com.</a> Additionally, you can connect with me on LinkedIn at <a href="https://www.linkedin.com/in/pooja-vishwakarma-091079250">linkedin.com/in/pooja-vishwakarma</a> or check out my GitHub profile at <a href="https://github.com/PoojaVishwakarma0402">github.com/PoojaVishwakarma0402</a>.</p>
+            </details>
+            <details>
+                <summary>Can I use this code as a template for my own portfolio?</summary>
+                <p>Yes, you can use this code as a starting point for creating your own personal webpage or portfolio. However, make sure to customize it with your own information, such as your name, contact details, education, and experience.</p>
+            </details>
+            <details>
+                <summary>How can I customize this code for my own use?</summary>
+                <p>To customize this code, you can replace Pooja's information with your own. Update the name, contact details, educational background, and work experience to reflect your own profile. You can also modify the styling and content as per your preferences.</p>
+            </details>
+            <details>
+                <summary>Is there any license associated with this code?</summary>
+                <p>The code mentions, "© 2023 Pooja Vishwakarma. All rights reserved." This suggests that Pooja may hold copyright over the content. If you plan to use this code or content, it's advisable to reach out to Pooja for permission or clarification on licensing.</p>
+            </details>
+        </section>
+    </div>
+    <footer>
+        <p>&#169; 2023 Pooja Vishwakarma. All rights reserved.</p>
+    </footer>
+</body>
+</html>
